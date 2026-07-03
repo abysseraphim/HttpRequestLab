@@ -96,9 +96,9 @@ pyinstaller \
   --onefile \
   --windowed \
   main.py
+```
 
 ## Project Structure
-
 ```
 HttpRequestLab/
 ├── main.py                  # entry point
